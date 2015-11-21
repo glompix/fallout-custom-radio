@@ -1,0 +1,6 @@
+mus_easycitydowns_rabbit_a_reveille.xwm
+mus_easycitydowns_rabbit_b_firstcall.xwm
+mus_easycitydowns_rabbit_c_cavalrycharge.xwm
+mus_easycitydowns_rabbit_d_calltomess.xwm
+mus_easycitydowns_rabbit_e_drill.xwm
+mus_easycitydowns_rabbit_f_assembly.xwm
