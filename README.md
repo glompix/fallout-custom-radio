@@ -20,6 +20,9 @@
 #### Move-RadioTracks Parameters
 
 * `station` - use one of the names in the `radio-stations` folder. Default: `diamondcity`
+* `filter` - use to keep certain tracks around. It's a regular expression. Examples:
+  * `"bobcrosby|ellafitzgerald"` - keep all songs with bob crosby or ella fitzgerald.
+  * `"fallout|bomb|uranium"` - keep some of the funny ones.
 * `sourceFolder` - where the converted music lives. Default: `.\MultiXwm\output`
 * `falloutFolder` - where Fallout 4 is installed to. Default: `C:\Program Files (x86)\Steam\steamapps\common\Fallout 4`
 
