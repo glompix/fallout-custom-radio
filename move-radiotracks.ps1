@@ -44,5 +44,5 @@ foreach ($file in $files)
     }
 
     $destFile = Join-Path $falloutRadioFolder $file
-    Copy-Item $nextFileName -Destination $destFile
+    Move-Item $nextFileName -Destination $destFile
 }
